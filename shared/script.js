@@ -4,5 +4,5 @@ async function loadHTML(id, url) {
     document.getElementById(id).innerHTML = text;
 }
 
-loadHTML("header", "https://yourusername.github.io/shared/header.html");
-loadHTML("footer", "https://yourusername.github.io/shared/footer.html");
+loadHTML("header", "https://duck123acb.github.io/shared/header.html");
+loadHTML("footer", "https://duck123acb.github.io/shared/footer.html");
