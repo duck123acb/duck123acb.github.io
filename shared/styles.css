@@ -25,3 +25,8 @@ a {
 a:visited {
     color: var(--link-visited);
 }
+
+body {
+    margin: 0;
+    padding: 0;
+}
