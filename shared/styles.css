@@ -1,3 +1,11 @@
+:root {
+    --bg-secondary: #F4F3EE;
+    --bg: #DAD2BC;
+    --text: #463F3A;
+    --link-visited: #0073e6;
+    --link: #00bfe6;
+}
+
 header, footer {
     display: flex;
     justify-content: center;
